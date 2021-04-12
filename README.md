@@ -1,0 +1,2 @@
+# Credit-Card-Churn-Behavior
+A manager at the bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if one could predict for them who is gonna get churned so they can proactively go to the customer to provide them better services and turn customers‘ decisions in the opposite direction. The dataset we have consists of 10,000 customers mentioning 18 features like their age, salary, marital status, credit card limit, credit card category, etc. We have only 16.07% of customers who have churned.
